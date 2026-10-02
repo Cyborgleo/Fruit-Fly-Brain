@@ -1,0 +1,28 @@
+{
+  "connectome": {
+    "name": "MaleCNS",
+    "release": "v1.0",
+    "dataset_id": "male-cns:v1.0",
+    "source": "https://male-cns.janelia.org/download/",
+    "license": "CC BY; preserve the official attribution and verify redistribution terms"
+  },
+  "files": {
+    "connectivity": {
+      "filename": "connectome-weights-male-cns-v1.0-minconf-0.5.feather",
+      "sha256": null,
+      "sha256_note": "Fill with the verified downloaded-file hash"
+    },
+    "annotations": {
+      "filename": "body-annotations-male-cns-v1.0-minconf-0.5.feather",
+      "sha256": null,
+      "sha256_note": "Fill with the verified downloaded-file hash"
+    },
+    "neurotransmitters": {
+      "filename": "body-neurotransmitters-male-cns-v1.0.feather",
+      "sha256": null,
+      "sha256_note": "Fill with the verified downloaded-file hash"
+    }
+  },
+  "status": "example only; no data files have been downloaded or verified"
+}
+
